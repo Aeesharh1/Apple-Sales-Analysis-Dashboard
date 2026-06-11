@@ -83,17 +83,12 @@ The goal of this project was to understand revenue trends, profitability, sales 
 
 <img width="1217" height="782" alt="Screenshot 2026-06-11 184907" src="https://github.com/user-attachments/assets/0d348ba6-910d-4e75-b12b-2afd1dcaace6" />
 
-## Files Included
+## Project Files
+- [Download Excel Dashboard](https://1drv.ms/x/c/e2a3b45f6c0dabc5/IQAO8Xjc6OUSTbzv-P6YzgoWAY2C2cqEqjTbmR7eTtagw2c?e=fJCeWr)
+- [View Dashboard Screenshot](<img width="1217" height="782" alt="Screenshot 2026-06-11 184907" src="https://github.com/user-attachments/assets/0d348ba6-910d-4e75-b12b-2afd1dcaace6" />)
 
-```text
-Apple-Sales-Dashboard/
-│
-├── Apple Sales Dashboard.xlsx
-├── Dashboard Screenshot.png
-└── README.md
-```
 
-     
+
      
 
 
