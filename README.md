@@ -10,10 +10,10 @@ This project focuses on analyzing Apple sales data to uncover business insights 
 The goal of this project was to understand revenue trends, profitability, sales methods, and regional performance to support decision making.
 
 
-##Tools Used
+Tools Used
 
 
-   #Microsoft Excel
+   Microsoft Excel
 
    
         Data Cleaning
@@ -32,7 +32,7 @@ Data Cleaning Process
        Creating calculated fields for analysis
 
        
-Dashboard Features
+##Dashboard Features
 
 
   The dashboard includes key metrics and visualizations such as:
@@ -47,7 +47,7 @@ Dashboard Features
      Total Profit
 
      
-Analysis Performed
+##Analysis Performed
 
 
       Revenue and Profit by Product
@@ -57,7 +57,7 @@ Analysis Performed
       Quantity Sold vs Revenue by Product
 
       
-Key Insights
+##Key Insights
 
 
    Some insights generated from the dashboard include:
@@ -79,7 +79,7 @@ Key Insights
 
      
 
-Dashboard Preview
+##Dashboard Preview
 
 <img width="1217" height="782" alt="Screenshot 2026-06-11 184907" src="https://github.com/user-attachments/assets/0d348ba6-910d-4e75-b12b-2afd1dcaace6" />
 
