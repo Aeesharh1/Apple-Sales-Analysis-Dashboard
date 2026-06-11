@@ -23,59 +23,59 @@ The goal of this project was to understand revenue trends, profitability, sales 
         - Dashboard Design
 
         
-Data Cleaning Process
+## Data Cleaning Process
 
 
     The dataset was prepared by:
-       Removing Duplicates
-       Handling missing values
-       Creating calculated fields for analysis
+       -Removing Duplicates
+       -Handling missing values
+       -Creating calculated fields for analysis
 
        
 ## Dashboard Features
 
 
-  The dashboard includes key metrics and visualizations such as:
+  ### The dashboard includes key metrics and visualizations such as:
 
   
-  KPI Cards
+  * KPI Cards
 
   
-     Total Revenue
-     Price Per Unit
-     Total Quantity Sold
-     Total Profit
+     - Total Revenue
+     - Price Per Unit
+     - Total Quantity Sold
+     - Total Profit
 
      
 ## Analysis Performed
 
 
-      Revenue and Profit by Product
-      Revenue and Profit by Sales Method
-      Revenue by Region
-      Expense-to-Revenue Ratio by Region
-      Quantity Sold vs Revenue by Product
+      - Revenue and Profit by Product
+      - Revenue and Profit by Sales Method
+      - Revenue by Region
+      - Expense-to-Revenue Ratio by Region
+      - Quantity Sold vs Revenue by Product
 
       
 ## Key Insights
 
 
-   Some insights generated from the dashboard include:
+   ### Some insights generated from the dashboard include:
 
    
-     Macbook contributed the highest total revenue and the highest profit, while iWatch generates the lowest total revenue and profit.
+     - Macbook contributed the highest total revenue and the highest profit, while iWatch generates the lowest total revenue and profit.
 
      
-     Instore sales generates the highest revenue and profit, while the lowest revenue and profit is generated through referral.
+     - Instore sales generates the highest revenue and profit, while the lowest revenue and profit is generated through referral.
 
      
-     South America has the highest expense to revenue ratio, indicating higher cost relative to revenue.
+     - South America has the highest expense to revenue ratio, indicating higher cost relative to revenue.
 
      
-     There is a positive correlation between quantity sold and revenue. As quantity increases revenue also increase.
+     - There is a positive correlation between quantity sold and revenue. As quantity increases revenue also increase.
 
      
-     APAC has the  highest  total revenue and highest average revenue per transactions.
+     - APAC has the  highest  total revenue and highest average revenue per transactions.
 
      
 
