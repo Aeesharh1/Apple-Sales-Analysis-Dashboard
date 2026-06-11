@@ -10,10 +10,10 @@ This project focuses on analyzing Apple sales data to uncover business insights 
 The goal of this project was to understand revenue trends, profitability, sales methods, and regional performance to support decision making.
 
 
-Tools Used
+##Tools Used
 
 
-   Microsoft Excel
+   #Microsoft Excel
 
    
         Data Cleaning
