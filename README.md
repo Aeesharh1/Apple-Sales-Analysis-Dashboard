@@ -83,11 +83,16 @@ The goal of this project was to understand revenue trends, profitability, sales 
 
 <img width="1217" height="782" alt="Screenshot 2026-06-11 184907" src="https://github.com/user-attachments/assets/0d348ba6-910d-4e75-b12b-2afd1dcaace6" />
 
+## Files Included
+
+```text
 Apple-Sales-Dashboard/
 │
 ├── Apple Sales Dashboard.xlsx
 ├── Dashboard Screenshot.png
 └── README.md
+```
+
      
      
 
