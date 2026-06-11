@@ -1,7 +1,7 @@
 # Apple-Sales-Analysis-Dashboard
 
 
-Project Overview
+## Project Overview
 
 
 This project focuses on analyzing Apple sales data to uncover business insights using Microsoft Excel. The dataset was cleaned and transformed before creating pivot tables, KPI cards and an interactive dashboard to analyze sales performance.
